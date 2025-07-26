@@ -1,5 +1,5 @@
-## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,debian,express,git,mysql,nodejs,npm,php,pinia,py,raspberrypi,symfony,vscode,vue,)](https://skillicons.dev)
 <!--
 **ThatItalianInFrance/ThatItalianInFrance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
