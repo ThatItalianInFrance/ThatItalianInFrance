@@ -1,3 +1,6 @@
+Hi! I'm Filippo, a full-stack developer with a rich and diverse professional career. 
+Experienced with JavaScript, PHP, node.js and frameworks like Vue or symfony.
+I am curious and open to continuous learning!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,debian,express,git,mysql,nodejs,npm,php,pinia,py,raspberrypi,symfony,vscode,vue,)](https://skillicons.dev)
 
